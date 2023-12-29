@@ -1,1 +1,2 @@
 # TSP_Solver
+This repository contains an object-oriented program (written in Java) that provides an approximate, optimal solution to the Travelling Salesman Problem, given small set size of nodes. The program utilises 3 different TSP algorithims, nearest neighbour, k-nearest neighbour and nearest neighbour first-last to produce different optimal paths/solutions to a given problem and then compares the performance of each program against each other. 
